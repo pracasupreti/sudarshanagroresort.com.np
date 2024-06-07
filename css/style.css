@@ -3463,7 +3463,7 @@ header.home-page-five .header-navigation.stricky-fixed ul.navigation-box > li:ho
 * 15. inner banner styles 
 ***************************/
 .inner-banner {
-  background: #191919 url("../img/inner-banner-bg.jpg") center center no-repeat;
+  background: #191919 url("../img/home/sudarsanHome.jpg") center center no-repeat;
   background-size: cover;
   padding: 99px 0;
 }
