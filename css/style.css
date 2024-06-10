@@ -2655,7 +2655,7 @@ header.home-page-five .header-navigation.stricky-fixed ul.navigation-box > li:ho
   font-size: 79px;
 }
 .video-box-area.style-two {
-  background: #000 url("../img/video-bg-2.jpg") center center no-repeat fixed;
+  background: #000 url("../img/home/transparentbg/1.jpg") center center no-repeat fixed;
   background-size: cover;
   padding: 0;
 }
