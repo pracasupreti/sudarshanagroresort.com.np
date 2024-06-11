@@ -4573,7 +4573,7 @@ header.home-page-five .header-navigation.stricky-fixed ul.navigation-box > li:ho
   color: #888888;
   font-family: 'Open Sans';
 }
-.service-style-six .single-service-style-six.wooden-bg {
+.service-style-six .single-service-style-six.wooden-bg ,.single-service-style-six.black-bg{
   background: #C09A76;
   border-color: #C09A76;
 }
@@ -4581,10 +4581,10 @@ header.home-page-five .header-navigation.stricky-fixed ul.navigation-box > li:ho
 .service-style-six .single-service-style-six.wooden-bg p {
   color: #fff;
 }
-.service-style-six .single-service-style-six.black-bg {
+/* .service-style-six .single-service-style-six.black-bg {
   background: #191919;
   border-color: #191919;
-}
+} */
 .service-style-six .single-service-style-six.black-bg h3,
 .service-style-six .single-service-style-six.black-bg p {
   color: #fff;
