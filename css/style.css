@@ -2438,12 +2438,13 @@ header.home-page-five .header-navigation.stricky-fixed ul.navigation-box > li:ho
   position: relative;
 }
 .testimonials-style-one .single-testimonials-style-one img {
-  width: auto;
-  max-width: none;
+  width: 100%
+  ;
+  /* max-width: none; */
   margin-left: auto;
   margin-right: auto;
   position: relative;
-  top: -48.5px;
+  /* top: -48.5px; */
   margin-bottom: -48.5px;
 }
 .testimonials-style-one .single-testimonials-style-one h3 {
