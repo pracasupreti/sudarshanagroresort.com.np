@@ -2151,7 +2151,8 @@ header.home-page-five .header-navigation.stricky-fixed ul.navigation-box > li:ho
 
 .footer-bottom {
   background: #141414;
-  padding: 24.5px 0;
+  /* padding: 24.5px 0; */
+  padding: 9.5px 0;
 }
 .footer-bottom p {
   margin: 0;
@@ -3533,6 +3534,7 @@ header.home-page-five .header-navigation.stricky-fixed ul.navigation-box > li:ho
   font-size: 16px;
   line-height: 26px;
   margin: 0;
+  text-align: justify;
   margin-bottom: 20px;
   margin-top: 25px;
 }
