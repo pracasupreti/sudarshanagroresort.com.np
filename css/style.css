@@ -3603,6 +3603,7 @@ header.home-page-five .header-navigation.stricky-fixed ul.navigation-box > li:ho
   font-style: italic;
   font-family: 'Poppins';
   margin: 0;
+  text-align: justify;
   padding-right: 40px;
   margin-top: 25px;
 }
