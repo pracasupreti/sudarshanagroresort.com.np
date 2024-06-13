@@ -3467,10 +3467,11 @@ header.home-page-five .header-navigation.stricky-fixed ul.navigation-box > li:ho
 /************************** 
 * 15. inner banner styles 
 ***************************/
-.inner-banner {
-  background: #191919 url("../img/home/SudarshanHome.jpg") center center no-repeat;
+.inner-banner-breadcumb {
+  background: #191919 url("../img/background/1.jpg") center center no-repeat;
   background-size: cover;
-  padding: 99px 0;
+  /* padding: 99px 0; */
+  padding: 36px 0;
 }
 .inner-banner h2 {
   margin: 0;
@@ -3481,6 +3482,7 @@ header.home-page-five .header-navigation.stricky-fixed ul.navigation-box > li:ho
 }
 .inner-banner .breadcumb {
   margin-top: 10px;
+  font-size: 15px;
 }
 .inner-banner .breadcumb a, .inner-banner .breadcumb i, .inner-banner .breadcumb span {
   display: inline-block;
