@@ -159,7 +159,7 @@
     header.home-page-four .header-navigation ul.navigation-box > li > a {color: #fff;}
     header.home-page-four .header-navigation .thm-container .main-navigation {position: relative;z-index: 999;}
     header.home-page-five .navbar-default .navbar-toggle:hover {border-color: #000;}
-    header.home-page-five .navbar-default .navbar-toggle:hover .icon-bar {background-color: #000;}
+    header.home-page-five .navbar-default .navbar-toggle:hover .icon-bar {background-color: #f5eded;}
 }
 
 @media (max-width: 1024px) {
