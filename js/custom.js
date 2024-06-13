@@ -622,3 +622,6 @@ jQuery(window).on('scroll', function() {
         OnePageMenuScroll();        
     })(jQuery);
 });
+
+//js for copyright year 
+document.getElementById("currentYear").innerText = new Date().getFullYear();
