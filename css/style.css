@@ -259,18 +259,19 @@ td:last-child {
   border: none;
   border-radius: 0;
   background: #191919;
+  /* background: currentcolor; */
 }
 .header-navigation .thm-container {
   background: transparent;
   position: relative;
   max-width: 100%;
-  padding-right: 270px;
+  padding-right: 214px;
 }
 .header-navigation .thm-container .navbar-brand {
   height: auto;
   padding: 26.5px 30px;
   margin-left: 0;
-  background: #121212;
+  /* background: #121212; */
   float: left;
 }
 .header-navigation .thm-container .phone-block {
@@ -525,7 +526,9 @@ td:last-child {
 }
 
 .header-top {
-  background: #1A1A1A;
+  /* background: #1A1A1A; */
+  /* background: #008000; */
+  background: #3d7703;
   padding: 7px 0;
 }
 .header-top p {
@@ -670,7 +673,8 @@ header.home-page-four .header-navigation.stricky-fixed {
 }
 
 header.home-page-five .header-navigation.stricky-fixed {
-  background-color: #C19B76;
+  /* background-color: #C19B76; */
+  background-color: currentcolor;
 }
 header.home-page-five .header-navigation.stricky-fixed ul.navigation-box > li:hover > a {
   color: #242424;
@@ -882,7 +886,7 @@ header.home-page-five .header-navigation.stricky-fixed ul.navigation-box > li:ho
   background-size: cover;
   padding-top: 170px;
   padding-bottom: 105px;
-  margin-top: 42px;
+  /* margin-top: 42px; */
 }
 .banner-style-two .banner-content {
   padding-top: 150px;
