@@ -874,9 +874,23 @@
     .about-style-three .about-content .title h3 {
         padding-right: 0px;
     }
+    .video-box-area h3 span {
+        color: #008000;
+        font-weight: 300;
+        font-size: 30px;
+    }
+    .video-box-area h3 {
+        
+        font-size: 38px;
+    }
 }
 
 @media(max-width: 480px) {
+
+    .video-box-area h3 {
+        
+        font-size: 32px;
+    }
     .header-navigation .thm-container .navbar-header {
         padding-right: 0;
     }
