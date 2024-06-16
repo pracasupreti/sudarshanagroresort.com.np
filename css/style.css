@@ -528,6 +528,7 @@ td:last-child {
     width: 100%;
     text-align: right;
     float: none;
+    margin-bottom: 30px;
   }
 }
 
@@ -4523,6 +4524,7 @@ color: #ffffff;
   font-size: 16px;
   line-height: 26px;
   color: #787878;
+  min-height: 105px;
   font-family: 'Open Sans';
   margin-top: 15px;
 }
@@ -4584,6 +4586,8 @@ color: #ffffff;
   background: #FFFFFF;
   padding: 43px 15px;
   text-align: center;
+  margin-bottom: 8px;
+    
 }
 .service-style-six .single-service-style-six h3,
 .service-style-six .single-service-style-six p {
@@ -6830,7 +6834,7 @@ color: #ffffff;
           width: 60px;
           height: 60px;
           bottom: 93px;
-          right: 125px;
+          right: 25px;
           background-color: #008000;
           color: #FFF;
           border-radius: 50px;
