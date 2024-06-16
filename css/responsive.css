@@ -895,6 +895,11 @@
 }
 
 @media(max-width: 480px) {
+
+    
+    .map-container iframe{
+        height: 300px;
+    }
     .left-contact .fa-envelope-o{
         display: none;
     }
