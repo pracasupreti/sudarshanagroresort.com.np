@@ -362,6 +362,7 @@ td:last-child {
   line-height: 1em;
 }
 .header-navigation .thm-container .right-side-box a.book-btn {
+  margin-top: 13px;
   display: inline-block;
   vertical-align: middle;
   color: #FFFFFF;
@@ -383,6 +384,7 @@ td:last-child {
   display: inline-block;
   float: none;
   vertical-align: middle;
+  margin-top: 13px;
 }
 .header-navigation ul.navigation-box li a .sub-nav-toggler {
   display: none;
